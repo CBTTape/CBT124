@@ -1,0 +1,45 @@
+2023-04-02 22:03:46.899623 - Initialized conversion of CBT124
+2023-04-02 22:03:47.179230 - Received CBT.V504.FILE124.PDS from FILE124.XMI 
+2023-04-02 22:03:47.181963 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:03:47.183239 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/$$$DOC
+2023-04-02 22:03:47.184270 - Found @FILE124.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/@FILE124
+2023-04-02 22:03:47.185232 - Found AUTH.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/AUTH
+2023-04-02 22:03:47.186572 - Found BPPL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/BPPL
+2023-04-02 22:03:47.187586 - Found EDPRD.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/EDPRD
+2023-04-02 22:03:47.188557 - Found EDPRT.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/EDPRT
+2023-04-02 22:03:47.189588 - Found EDSCR.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/EDSCR
+2023-04-02 22:03:47.190579 - Found ENTERR.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/ENTERR
+2023-04-02 22:03:47.191589 - Found GDGUTIL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/GDGUTIL
+2023-04-02 22:03:47.192686 - Found GDGUTILP.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/GDGUTILP
+2023-04-02 22:03:47.193629 - Found IGC0023C.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/IGC0023C
+2023-04-02 22:03:47.194548 - Found IKJCVT.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/IKJCVT
+2023-04-02 22:03:47.195519 - Found ISR@PDOC.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/ISR@PDOC
+2023-04-02 22:03:47.196411 - Found ISR@PRIM.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/ISR@PRIM
+2023-04-02 22:03:47.197309 - Found KPPL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/KPPL
+2023-04-02 22:03:47.198212 - Found LEAVER.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/LEAVER
+2023-04-02 22:03:47.199205 - Found MOVE.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/MOVE
+2023-04-02 22:03:47.200222 - Found PDPANL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/PDPANL
+2023-04-02 22:03:47.201287 - Found PRPANL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/PRPANL
+2023-04-02 22:03:47.202297 - Found PRT.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/PRT
+2023-04-02 22:03:47.203239 - Found PRTPNL00.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/PRTPNL00
+2023-04-02 22:03:47.204328 - Found PR1.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/PR1
+2023-04-02 22:03:47.205500 - Found PR2.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/PR2
+2023-04-02 22:03:47.206613 - Found REGEQU.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/REGEQU
+2023-04-02 22:03:47.207806 - Found RESETGDG.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/RESETGDG
+2023-04-02 22:03:47.208837 - Found SCPANL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/SCPANL
+2023-04-02 22:03:47.209886 - Found SPF.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/SPF
+2023-04-02 22:03:47.211135 - Found SPFDOC.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/SPFDOC
+2023-04-02 22:03:47.212220 - Found STACK.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/STACK
+2023-04-02 22:03:47.213253 - Found STACKDOC.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/STACKDOC
+2023-04-02 22:03:47.214201 - Found WPROFILE.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WPROFILE
+2023-04-02 22:03:47.215217 - Found WSRCCEP1.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WSRCCEP1
+2023-04-02 22:03:47.216262 - Found WSRCCLPN.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WSRCCLPN
+2023-04-02 22:03:47.217571 - Found WSRCEPCL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WSRCEPCL
+2023-04-02 22:03:47.218580 - Found WSRCESET.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WSRCESET
+2023-04-02 22:03:47.218593 - Found WSRCMDS.bin containing application/octet-stream, moved to PDS/WSRCMDS
+2023-04-02 22:03:47.220580 - Found WSRCPRTC.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WSRCPRTC
+2023-04-02 22:03:47.221504 - Found WTP.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/WTP
+2023-04-02 22:03:47.222416 - Found XABGN.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/XABGN
+2023-04-02 22:03:47.223573 - Found XAFIN.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/XAFIN
+2023-04-02 22:03:47.224564 - Found XL.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/XL
+2023-04-02 22:03:47.225538 - Found XLN.txt (text/plain) in CBT.V504.FILE124.PDS, moved to PDS/XLN
